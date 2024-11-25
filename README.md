@@ -1,11 +1,11 @@
-### Broom
+# Broom
 ## How to use
 
 If the program is compiled, you can write "broom -h" to see the commands.
 If (for some reason) the command does not works, you can recompile the program or you can see the list
 of command here!
 
-# Commands
+### Commands
 
 [-h] Shows you the list of commands
 [-s] Shows you the list of usernames, needs an extra parameter to search the username in the database
