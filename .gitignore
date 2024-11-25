@@ -1,0 +1,6 @@
+#ignore compiled/temp objets
+*.exe
+*.o
+*.a
+*.md
+!README.md

@@ -1,0 +1,9 @@
+@echo off
+cls
+echo compiling dependencies...
+make_libPackage
+echo compiling server...
+make_server
+echo compiling client...
+make_client
+echo Project compiled!
